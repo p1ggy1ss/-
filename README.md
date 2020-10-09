@@ -1,1 +1,12 @@
-![alt text](figures/я.png)
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тег IMG alt</title>
+ </head>
+ <body>
+
+  <p><a href="/index.php"><img src="images/я.png" alt="Вернуться на главную страницу"></a></p>
+
+ </body>
+</html>
