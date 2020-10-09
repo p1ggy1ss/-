@@ -1,1 +1,1 @@
-![alt text](screenshots/я.png)
+!(screenshots/я.png)
