@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Тег IMG, атрибут alt</title>
+  <title> alt</title>
  </head>
  <body>
 
