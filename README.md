@@ -6,7 +6,7 @@
  </head>
  <body>
 
-  <p><a href="/index.php"><img src="images/я.png" alt="Вернуться на главную страницу"></a></p>
+  <p><a href="/index.php"><img src="images/home.png" alt="Вернуться на главную страницу"></a></p>
 
  </body>
 </html>
